@@ -1,0 +1,7 @@
+model_name: bert-base-uncased
+num_tasks: 5
+lr: 2e-5
+epochs: 3
+batch_size: 16
+max_length: 256
+seed: 42
